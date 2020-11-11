@@ -1,0 +1,6 @@
+framework module Pods_GHAlertViewTests {
+  umbrella header "Pods-GHAlertViewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
