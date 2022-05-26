@@ -1,0 +1,15 @@
+{
+    "name": "Binary Birds packages",
+    "overview": "This collection contains the our favorite Swift packages.",
+    "author": {
+        "name": "Tibor Bödecs"
+    },
+    "keywords": [
+        "favorite"
+    ],
+    "packages": [
+        {
+            "url": "https://github.com/Alamofire/Alamofire"
+        }
+    ]
+}
